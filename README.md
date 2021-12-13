@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Assignment 3 Notes
 
-You can use the [editor on GitHub](https://github.com/NeerajK2001/NeerajK2001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This framework is only to get you started; where you go from here is entirely up to you. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Styles
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For this Assignment, you must use only one styles.css stylesheet. Within it, you will need multiple media queries.
 
-```markdown
-Syntax highlighted code block
+In the largest view, your layout should become fixed-width and centred. However, background colours and background images should still span the full width of the viewport.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Reset Code
 
-1. Numbered
-2. List
+You have been provided with 'A Modern Reset'. However, you may choose to use another CSS reset.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Images
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+On Moodle, you will find an assets.zip file. Inside of it, you will find a number of SVG images and other images. 
 
-### Jekyll Themes
+You will need to optimise all of your images using a graphics editing program like Squoosh or Photoshop. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NeerajK2001/NeerajK2001.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Hints
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Make sure that you validate your code! You **must** have complete and valid HTML before you begin styling your website.
+
+2. After writing and validating all of your markup, start with your mobile styles. 
+
+3. The background image on the 'HAVE A PROJECT YOU WANT TO GET STARTED' banner, on the contact page, should be fixed. This will create a parallax scrolling effect. 
+
+4. Your top-level navigation must be sticky.
+
+5. Do not pain yourself with styling the appearance of checkboxes, radio buttons, and select elements. How they look will differ from browser to browser. However, if you are interested in learning how to style them, check out this article here: 
+
+https://medium.com/claritydesignsystem/pure-css-accessible-checkboxes-and-radios-buttons-54063e759bb3
+
+
+## Further Instructions & Rubric
+
+On Moodle, you will also find complete instructions and a marking key in PDF format.
